@@ -1,4 +1,7 @@
-*** Updating /etc/oratab
+---
+published: false
+---
+### Updating /etc/oratab
 
 Starting with Oracle 12c Oct 2019 PSU, the PSU patching removes any entries in /etc/oratab with the keyword "added by Agent".
 
